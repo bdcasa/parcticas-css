@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #feffff; 
+}
+#cabecera {
+    height: 100px;
+    background-color: #2620A7;
+}
+#cabecera #menu-superior {
+    float: left;
+    margin: 50;
+    font-display: ;
+}
+#menu-superior section ul {
+    list-style: none;
+}
+#menu-superior ul li{
+    display: inline-block;
+}
+#menu-superior ul li a{
+    color: white;
+    font-size: 0.8em;
+    text-decoration: none;
+    padding: 8px;
+    
+}
+#menu-superior ul li a:hover{
+    font-size: 1.0em;
+    color: cyan;
+}
+#menu-superior {
+    font-size: 1.3em;
+    color: cyan;
+}
